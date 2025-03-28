@@ -1,2 +1,2 @@
 # BBPISS
-Blockchain based personal identity security system project is based on the cloud security system just like digilocker . 
+The system aims to provide decentralized identity management , enabling users to control and verify their identity information securely without relying on centralized authorities. 
